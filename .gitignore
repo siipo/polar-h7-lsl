@@ -1,0 +1,9 @@
+# build output
+build/
+dist/
+*.spec
+__pycache__/
+
+# heart-rate recordings (personal data)
+recordings/
+*.csv
